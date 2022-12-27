@@ -1,0 +1,120 @@
+﻿Created on,29/11/2022
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Attorney General Chambers (2022), Tindak Malaysia (2022), RTM, NST, Sinar Harian, Berita Harian, Kosmo, Agenda Daily, Malaysiakini, The Malaysian Insight, Malaysian Gazette, The Star, Astro Awani, Utusan Borneo, Daily Express, Malay Mail, pru15.mca.org.my, calonkeadilan.org, DAP, PAS Negeri Perlis,Barisan Nasional Facebook Page, UMNO Online, Puteri Umno Tik Tok, Perikatan Nasional Perlis,  Mohd Fadzil Ramly Webpage, Tanjong Malim Kini Fb, Maju Perak"
+,"For more complete list of links for age data, please check Malaysia_GE15_DUN_Candidate_Age_Source_Data"
+Disclaimers,Intepretations for party allocations under coalition may vary among sources.There is a presence for missing data points for age attribute for candidates.  TindakMalaysia Network Services PLT is not responsible  for any errors or ommissions arising from the original data or its derivatives
+,Correction was made for the winner for DUN Lepar (Pahang)
+,"Corrections were made for rejected votes for following Perak DUNs (Temengor, Selama, Alor Pongsu, Pokok Assam, Aulong, Chenderoh, Canning, Kepayang, Buntong, Manong, Keranji, Tualang Sekah, Kampong Gajah, Pasir Panjang) and Pahang DUNs (Jelai, Batu Talam ,Tras, Pulau Tawar,Kerdau)"
+,Correction was made for PAS candidate gender for DUN Kenering (Perak)
+,Correction was made forall caandidate votes for DUN Jelai (Pahang)
+,Correction was made forall candidate votes for DUN Pulau Tawar with exception of no change for Pejuang (Pahang)
+,Correction was made for PRM candidate gender for DUN Lanchang (Pahang)
+,"At the start of Nomination Day, there were 59 women ADUN candidates. With the passing of original PAS candidate for Tioman, the new replacement for PAS was woman candidate. For the whole DUN elections for GE15, 60 women ADUN candidates contested"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Parliamentary Constituency Code
+STATE,State Name
+PARLIAMENTARY CODE,"Parliamentary Constituency Code (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+PARLIAMENTARY NAME,"Parliamentary Constituency Name (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+STATE CONSTITUENCY CODE,"State Constituency Code (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+STATE CONSTITUENCY NAME,"State Constituency Name (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
+WINNING PARTY,Party/Coalition (with Component Party) who won the seat
+UNCONTESTED VICTORY,"Indicator if there was one contestant for the said election. If yes, value Y is affixed. If none, it is left blank"
+TOTAL ELECTORATE,Total Elector count using the Principal Electoral Roll that was updated until August 2022 which was gazetted on 15/9/2022 (updated until 9th October 2022)
+WINNING MAJORITY,The difference between the highest valid votes and second highest valid votes
+TURNOUT (%),Proportion of Total Ballots Issued as a share of Total Electorate
+TOTAL BALLOTS ISSUED,Total number of ballot papers issued at the poll (as in A in all Form 14 + A in Form 15)
+TOTAL UNRETURNED VOTES,Total number of ballot papers issued but not put in the ballot box (as in D in all Form 14) and not returned (as in D in Form 15) (B-C-D)
+TOTAL REJECTED VOTES,Total number of rejected ballot papers (as in C in all Form 14 + C in Form 15)
+TOTAL VALID VOTES,Total number of votes by electors
+BN,Barisan Nasional (BN) Component Party
+BN CANDIDATE,Barisan Nasional Candidate Name as per the Government Gazette (Form 8)
+BN CANDIDATE GENDER,Male/Female Classification
+BN CANDIDATE AGE,Age of Barisan Nasional Candidate
+BN VOTE,Barisan Nasional Valid Vote for the Candidate
+PH,Pakatan Harapan (PH) Component Party
+PH CANDIDATE,Pakatan Harapan Candidate Name as per the Government Gazette (Form 8)
+PH CANDIDATE GENDER,Male/Female Classification
+PH CANDIDATE AGE,Age of Pakatan Harapan Candidate
+PH VOTE,Pakatan Harapan Valid Vote for the Candidate
+PN,Perikatan Nasional (PN) Component Party
+PN CANDIDATE,Perikatan Nasional Candidate Name as per the Government Gazette (Form 8)
+PN CANDIDATE GENDER,Male/Female Classification
+PN CANDIDATE AGE,Age of Perikatan Nasional Candidate
+PN VOTE,Perikatan Nasional Valid Vote for the Candidate
+GTA,Gerakan Tanah Air (GTA) Component Party
+GTA CANDIDATE,Gerakan Tanah Air Candidate Name as per the Government Gazette (Form 8)
+GTA CANDIDATE GENDER,Male/Female Classification
+GTA CANDIDATE AGE,Age of Gerakan Tanah Air Candidate
+GTA VOTE,Gerakan Tanah Air Valid Vote for the Candidate
+GPS,Gabungan Parti Sarawak (GPS) Component Party
+GPS CANDIDATE,Gabungan Parti Sarawak Candidate Name as per the Government Gazetter (Form 8)
+GPS CANDIDATE GENDER,Male/Female Classification
+GPS CANDIDATE AGE,Age of Gabungan Parti Sarawak Candidate
+GPS VOTE,Gabungan Parti Sarawak Valid Vote for the Candidate
+GRS,Gabungan Rakyat Sabah (GRS) Component Party
+GRS CANDIDATE,Gabungan Rakyat Sarawak Candidate Name as per the Government Gazetter (Form 8)
+GRS CANDIDATE GENDER,Male/Female Classification
+GRS CANDIDATE AGE,Age of Gabungan Rakyat Sarawak Candidate
+GRS VOTE,Gabungan Rakyat Sarawak Valid Vote for the Candidate
+WARISAN,Party Name
+WARISAN CANDIDATE,Party Candidate Name as per the Government Gazette (Form 8)
+WARISAN CANDIDATE GENDER,Male/Female Classification
+WARISAN CANDIDATE AGE,Age of Party Candidate
+WARISAN VOTE,Party Valid Vote for the Candidate
+OTHER PARTY (1),Other Party Name
+OTHER PARTY (1) CANDIDATE,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (1) CANDIDATE GENDER,Male/Female Classification
+OTHER PARTY (1) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (1) VOTE,Party Valid Vote for the Other Party Candidate
+OTHER PARTY (2),Other Party Name
+OTHER PARTY (2) CANDIDATE,Other Party Candidate Name as per the Government Gazetter (Form 8)
+OTHER PARTY (2) CANDIDATE GENDER,Male/Female Classification
+OTHER PARTY (2) CANDIDATE AGE,Age of Other Party Candidate
+OTHER PARTY (2) VOTE,Party Valid Vote for the Other Party Candidate
+INDEPENDENT (1),Independent with Symbol
+INDEPENDENT (1) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (1) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (1) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (1) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (2),Independent with Symbol
+INDEPENDENT (2) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (2) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (2) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (2) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (3),Independent with Symbol
+INDEPENDENT (3) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (3) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (3) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (3) VOTE,Independent Valid Vote for the Candidate
+INDEPENDENT (4),Independent with Symbol
+INDEPENDENT (4) CANDIDATE,Independent Candidate Name as per the Government Gazette (Form 8)
+INDEPENDENT (4) CANDIDATE GENDER,Male/Female Classification
+INDEPENDENT (4) CANDIDATE AGE,Age of Independent Candidate
+INDEPENDENT (4) VOTE,Independent Valid Vote for the Candidate
+,
+"KEY ABBREVIATIONS FOR POLITICAL PARTIES UNDER BN, PH, PN, GTA, GPS AND GRS",
+UMNO,United Malays National Organisation
+MCA,Malaysian Chinese Association
+MIC,Malaysian Indian Congress
+PBRS,Parti Bersatu Rakyat Sabah
+PKR,Parti Keadilan Rakyat
+DAP,Democratic Action Party
+PAN,Parti Amanah Negara
+UPKO,United Progressive Kinabalu Organisation
+PPBM,Parti Pribumi Bersatu Malaysia
+PAS,Parti Islam Se-Malaysia
+GERAKAN,Parti Gerakan Rakyat Malaysia
+PEJUANG,Parti Pejuang Tanah Air
+PUTRA,Parti Bumiputera Perkasa Malaysia
+IMAN,Parti Perikatan India Muslim Nasional
+BERJASA,Barisan Jemaah Islamiah
+GB,Gagasan Bangsa
+PBB,Parti Pesaka Bumiputera Bersatu Sarawak
+PDP,Parti Demokratik Progresif
+PRS,Parti Rakyat Sarawak
+SUPP,Sarawak United Peoples' Party
+PBS,Parti Bersatu Sabah
+SAPP,Sabah Progressive Party
+STAR,Parti Solidariti Tanah Airku
