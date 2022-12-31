@@ -13,7 +13,7 @@ Disclaimers,Intepretations for party allocations under coalition may vary among 
 Attribute,
 ,
 Field Name,Field Description
-UNIQUE CODE,Parliamentary Constituency Code
+UNIQUE CODE,Composite of Parliamentary and State Constituency Code
 STATE,State Name
 PARLIAMENTARY CODE,"Parliamentary Constituency Code (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
 PARLIAMENTARY NAME,"Parliamentary Constituency Name (2018 - present (for Peninsular Malaysia), 2019 - present (for Sabah))"
