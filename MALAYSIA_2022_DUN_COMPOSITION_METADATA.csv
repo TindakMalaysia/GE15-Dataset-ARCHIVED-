@@ -1,0 +1,37 @@
+﻿Created on,19/11/2022
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Election Commission of Malaysia (SPR), Tindak Malaysia (2022), DOSM, JPBD, Thevesh Teva Github, PSM, Florczyk A.J., Corbane C., Ehrlich D., Freire S., Kemper T., Maffenini L., Melchiorri M., Pesaresi M., Politis P., Schiavina, M., Sabo F., Zanchetta L., GHSL Data Package 2019, EUR 29788 EN, Publications Office of the European Union, Luxembourg, 2019, ISBN 978-92-76-13186-1, doi:10.2760/290498, JRC 117104, WorldPop (www.worldpop.org - School of Geography and Environmental Science, University of Southampton; Department of Geography and Geosciences, University of Louisville; Departement de Geographie, Universite de Namur) and Center for International Earth Science Information Network (CIESIN), Columbia University (2018). Global High Resolution Population Denominators Project - Funded by The Bill and Melinda Gates Foundation (OPP1134076). https://dx.doi.org/10.5258/SOTON/WP00675"
+Disclaimers,"All the percentages for electoral demographics are calculated by Tindak Malaysia.  Ethnic data is an estimate and may have an error range of 1 - 5%. GE15 State Elections (DUN) only covers Perlis, Perak and Pahang and Bugaya. Corrections were made for Ethnicity Percentages on 17/1/2023"
+Attribute,
+,
+Field Name,Field Description
+UNIQUE CODE,Composite between Parliamentary Constituency Code and DUN Code (Unique Identifier)
+STATE,State Name
+PARLIAMENTARY CODE,Parliamentary Constituency Code (2018 - present at the Created Date)
+PARLIAMENTARY NAME,Parliamentary Contituency Name (2018 - present at the Created Date)
+STATE CONSTITUENCY CODE,State Constituency Code (2018 - present at the Created Date)
+STATE CONSTITUENCY NAME,State Constituency Name (2018 - present at the Created Date)
+TOTAL ELECTORS,Total Elector count using the Principal Electoral Roll that was updated until August 2022 which was gazetted on 15/9/2022 (updated until 9th October 2022)
+MALAY (%),Proportion of Malay Electors for the State Constituency (%)
+CHINESE (%),Proportion of Chinese Electors for the State Constituency (%)
+INDIANS (%),Proportion of Indians Electors for the State Constituency (%)
+ORANG ASLI (%),Proportion of Orang Asli Electors for the State Constituency (%)
+BUMIPUTERA SABAH (%),Proportion of Bumiputera Sabah Electors for the State Constituency (%)
+BUMIPUTERA SARAWAK (%),Proportion of Bumiputera Sarawak Electors for the State Constituency (%)
+OTHERS (%),Proportion of Others Electors for the State Constituency (%)
+ELECTORS - NORMAL VOTERS (%),Proportion of Electors - Normal Electors for the State Constituency (%)
+ELECTORS - ABSENT VOTERS (%),Proportion of Electors - Absent Electors for the State Constituency (%)
+ELECTORS - POLICE (%),Proportion of Electors - Police Electors for the State Constituency (%)
+ELECTORS - MILITARY (%),Proportion of Electors - Military Electors for the State Constituency (%)
+18-20 (%),Proportion of 18-20 Electors for the State Constituency (%)
+21-29 (%),Proportion of 21-29 Electors for the State Constituency (%)
+30-39 (%),Proportion of 30-39 Electors for the State Constituency (%)
+40-49 (%),Proportion of 40-49 Electors for the State Constituency (%)
+50-59 (%),Proportion of 50-59 Electors for the State Constituency (%)
+60-69 (%),Proportion of 60-69 Electors for the State Constituency (%)
+70-79 (%),Proportion of 70-79 Electors for the State Constituency (%)
+80-89 (%),Proportion of 80-89 Electors for the State Constituency (%)
+ABOVE 90 (%),Proportion of Above 90 Electors for the State Constituency (%)
+MALE ELECTORS (%),Proportion of Male Electors for the State Constituency (%)
+WOMEN ELECTORS (%),Proportion of Women Electors for the State Constituency (%)
+URBAN-RURAL CLASSIFICATION (2021),State Constituency urbanization classification
